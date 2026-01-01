@@ -1,0 +1,1 @@
+# -ESP32-S3-node-firmware-that-sends-a-P2P-LoRa-SX1262-packet-with-nodeId-test-node-moisture-123-
